@@ -2,3 +2,4 @@ This is my my first
 file on Git
 created from my local system
 Notes from git
+This text is for Newfeature-1 branch
